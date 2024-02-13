@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29035152087",
+    "project_id": "e-clot",
+    "storage_bucket": "e-clot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29035152087:android:e52144b2634d28e903a692",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGpIwijm8-NSnNHzi71m8OtkAGPMcbW8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
