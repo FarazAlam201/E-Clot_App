@@ -1,15 +1,18 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 ## Screen Shots
-<img src="src/assets/screenshots/Capture.PNG" width = 50% height = 50%>
-<img src="src/assets/screenshots/Sign in.PNG" width = 50% height = 50%>
-<img src="src/assets/screenshots/Sign in2.PNG" width = 50% height = 50%>
-<img src="src/assets/screenshots/SigninUP.PNG" width = 50% height = 50%>
-<img src="src/assets/screenshots/HomeScreen.PNG" width = 50% height = 50%>
-<img src="src/assets/screenshots/Categories.PNG" width = 50% height = 50%>
-<img src="src/assets/screenshots/SubCategories.PNG" width = 50% height = 50%>
-<img src="src/assets/screenshots/ProductItem.PNG" width = 50% height = 50%>
-<img src="src/assets/screenshots/cong.PNG" width = 50% height = 50%>
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="src/assets/screenshots/Capture.PNG" width="20%" height="40%" style="margin: 5px;">
+    <img src="src/assets/screenshots/Sign in.PNG" width="20%" height="40%" style="margin: 5px;">
+    <img src="src/assets/screenshots/Sign in2.PNG" width="20%" height="40%" style="margin: 5px;">
+    <img src="src/assets/screenshots/SigninUP.PNG" width="20%" height="40%" style="margin: 5px;">
+    <img src="src/assets/screenshots/HomeScreen.PNG" width="20%" height="40%" style="margin: 5px;">
+    <img src="src/assets/screenshots/Categories.PNG" width="20%" height="40%" style="margin: 5px;">
+    <img src="src/assets/screenshots/SubCategories.PNG" width="20%" height="40%" style="margin: 5px;">
+    <img src="src/assets/screenshots/ProductItem.PNG" width="20%" height="40%" style="margin: 5px;">
+    <img src="src/assets/screenshots/cong.PNG" width="20%" height="40%" style="margin: 5px;">
+</div>
+
 
 
 # Getting Started
