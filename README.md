@@ -1,13 +1,17 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 ## Screen Shots
-<img src="src/assets/screenshots/Capture.png" width = 50% height = 50%>
-<img src="src/assets/screenshots/Sign in.png" width = 50% height = 50%>
-<img src="src/assets/screenshots/3.png" width = 50% height = 50%>
-<img src="src/assets/screenshots/4.png" width = 50% height = 50%>
-<img src="src/assets/screenshots/5.png" width = 50% height = 50%>
-<img src="src/assets/screenshots/7.png" width = 50% height = 50%>
-<img src="src/assets/screenshots/8.png" width = 50% height = 50%>
+<img src="src/assets/screenshots/Capture.PNG" width = 50% height = 50%>
+<img src="src/assets/screenshots/Sign in.PNG" width = 50% height = 50%>
+<img src="src/assets/screenshots/Sign in2.PNG" width = 50% height = 50%>
+<img src="src/assets/screenshots/SigninUP.PNG" width = 50% height = 50%>
+<img src="src/assets/screenshots/HomeScreen.PNG" width = 50% height = 50%>
+<img src="src/assets/screenshots/Categories.PNG" width = 50% height = 50%>
+<img src="src/assets/screenshots/SubCategories.PNG" width = 50% height = 50%>
+<img src="src/assets/screenshots/ProductItem.PNG" width = 50% height = 50%>
+<img src="src/assets/screenshots/cong.PNG" width = 50% height = 50%>
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
